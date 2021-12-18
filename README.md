@@ -1,6 +1,6 @@
 Portfolio Project for CIS290 - Web Develpoment / OSU
 
-Home Page\n
+Home Page
 All fields displayed from MongoDB document; React updates in real time
 ![image](https://user-images.githubusercontent.com/32405875/146653373-736c6dcc-61a4-40fe-b170-263833856f99.png)
 
