@@ -1,1 +1,1 @@
-Portfolio Project for CIS290 - OSU
+Portfolio Project for CIS290 - Web Develpoment / OSU
