@@ -6,8 +6,9 @@ All fields displayed from MongoDB document; React updates in real time
 
 Add-Exercise Page<br />
 Input validation, dropdown, continuous animation
-![image](https://user-images.githubusercontent.com/32405875/146653327-4574d930-eca9-4fd3-ad3b-b11d3f6cf61e.png)
+![image](https://user-images.githubusercontent.com/32405875/146653504-b2d4a11d-0586-4397-9129-9c9e5ae42588.png)
+
 
 Edit-Exercise Page<br />
 Loads all information from clicked data cell in Home Page
-![image](https://user-images.githubusercontent.com/32405875/146653383-e86371ec-8ce1-401a-b87f-45550ab45861.png)
+![image](https://user-images.githubusercontent.com/32405875/146653530-84b9a5f8-a4ee-4102-9025-fff0abc12b83.png)
